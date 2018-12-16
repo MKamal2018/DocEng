@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Test 2 -->
 	<xsl:output method="xml" indent="yes" encoding="UTF-8"/>
 	<xsl:variable name="Ops" select="normalize-space(document('D:\programs\ProductionTools\TexConverter\FOP\foptemp.xml')/root/result)"/>
 	<xsl:template match="front">
