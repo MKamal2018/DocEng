@@ -1,12 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--	Created By	: Mohammed Abdel-Fattah Soliman
-	Created	on	: Jan. 9, 2008
-	Modification History:
-    Modified on: Feb. 19, 2008  By: Mohammed AbdelFattah
-    Modified on: Feb. 19, 2008  By: Wael Abdelsattar
-    Modified on: Feb. 20, 2008	By: Mohammed AbdelFattah 
-    Last Modified: Feb. 27, 2008By:	Mohammed AbdelFattah-->
-    <!-- Mohamed Kamal -->
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink">
   <!--<xsl:output method="text"/>-->
   <!--<xsl:variable name="titlesCase">lower</xsl:variable>-->
